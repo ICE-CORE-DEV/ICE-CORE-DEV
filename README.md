@@ -1,9 +1,9 @@
 <img width="1526" height="352" alt="BANNERICE" src="https://github.com/user-attachments/assets/76965439-c15f-4635-ad9f-853495e23643" />
 
 <p align="center">
-  <h1>Welcome to ICE-CORE 👋</h1>
+  <strong style="font-size: 128px;">Welcome to ICE-CORE 👋</strong>
+</p>
 
-  <p>We are a <strong>FiveM-focused development team</strong> specializing in <strong>front-end, back-end, 3D, and DCP</strong> projects for custom game servers and tools.</p>
 
 ---
 
