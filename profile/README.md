@@ -36,7 +36,7 @@
  <!-- Links -->
   <p>
     <a href="https://ice-core.me"><img alt="Website" src="https://img.shields.io/badge/ice-core.me-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://discord.gg/valkiafa"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.gg/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </p>
 
   <p>🎉 Check out our <a href="#">latest release notes</a> for updates.</p>
